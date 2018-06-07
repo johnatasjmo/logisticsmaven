@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "/"
-title = "Elate theme"
+title = "Logistics Maven"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -9,12 +9,12 @@ theme = "hugo-elate-theme"
   custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
-  author = ""
+  author = "Johnatas Montezuma"
   description = ""
-  email = ""
+  email = "jmo@logisticsmaven.com"
   # Navigation
   [params.navigation]
-    brand = "Elate"
+    brand = "Logistics Maven"
     home = "Home"
     work = "Work"
     testimonials = "Testimonials"
@@ -100,24 +100,6 @@ theme = "hugo-elate-theme"
       img = "work_3.jpg"
       alt = "Image3"
       title = "Project 3"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_4.jpg"
-      alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
       subtitle = "Design"
 
   # Testimonials section
@@ -226,21 +208,21 @@ theme = "hugo-elate-theme"
       from = 0
       to = 89
       interval = 50
-      speed = 5000
+      speed = 3000
 
     [[params.counters.item]]
-      description = "Lines of code"
-      icon = "icon-code"
+      description = "Savings '000'"
+      icon = "icon-speedometer"
       from = 0
-      to = 2343409
+      to = 200
       interval = 50
-      speed = 5000
+      speed = 3000
 
     [[params.counters.item]]
-      description = "Cups of coffee"
-      icon = "icon-cup"
+      description = "Supply Chains"
+      icon = "icon-chart"
       from = 0
-      to = 1302
+      to = 12
       interval = 50
       speed = 5000
 
@@ -255,7 +237,7 @@ theme = "hugo-elate-theme"
   # Contact section
   [params.contact]
     enable = true
-    map = true
+    map = false
     form = true
     title = "Get in touch"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
