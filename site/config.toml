@@ -50,15 +50,15 @@ theme = "hugo-elate-theme"
     title = "Plan"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "/blog/"
-    button = "Test1"
+    button = "Blog List"
     icon = "icon-bulb"
     img = "img_7.jpg"
 
   [[params.intro.item]]
     title = "Develop"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Click Me"
+    url = "/blog/test1.md"
+    button = "Test1.md"
     icon = "icon-wrench"
     img = "img_8.jpg"
 
