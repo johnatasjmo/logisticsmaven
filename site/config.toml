@@ -39,35 +39,35 @@ theme = "hugo-elate-theme"
 
   # Hero section
   [params.hero]
-    title = "Do something you love."
-    subtitle = 'Another free HTML5 bootstrap template by <a href="http://freehtml5.co/" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
+    title = "Supply Chain Consultants"
+    subtitle = 'network design and optimization</br>machine learning</br>route planning'
 
   # Intro section
   # Available icons: http://simplelineicons.com/
   [params.intro]
 
   [[params.intro.item]]
-    title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Startups"
+    description = "We help logistics startups to expand their network into Latin America."
     url = "/blog/"
     button = "Blog List"
     icon = "icon-bulb"
     img = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Optimize"
+    description = "We help companies to reduce their logistics expend and maximize their resources."
     url = "/blog/test1.md"
     button = "Test1.md"
-    icon = "icon-wrench"
+    icon = "icon-calculator"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Machine Learning"
+    description = "We apply machine learning techniques to your big data."
     url = "#"
-    button = "Why us?"
-    icon = "icon-rocket"
+    button = "AI"
+    icon = "icon-chemistry"
     img = "img_10.jpg"
 
   [params.intro.video]
@@ -82,7 +82,7 @@ theme = "hugo-elate-theme"
     enable = true
     title = "Work"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+    footertext = ""
 
     [[params.work.row]]
       img = "work_1.jpg"
@@ -106,7 +106,7 @@ theme = "hugo-elate-theme"
   [params.testimonials]
     enable = true
     title = "Testimonials"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "100% work guaranteed"
 
     [[params.testimonials.item]]
       quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
